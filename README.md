@@ -1,10 +1,9 @@
-# react-redux-helloworld
-Testing collapsable control in React and Redux
+Showing custom flash notification notification
 
 ## Run the app
 
 ```
-git clone git@github.com:SSalekin/react-bootstrap-demo.git
+git clone git@github.com:SSalekin/demo-react-notification.git
 
 cd react-redux-helloworld
 npm install
