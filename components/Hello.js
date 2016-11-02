@@ -12,7 +12,7 @@ const CustomPopover = React.createClass({
         transitionAppear={true}
         transitionAppearTimeout={500}
         transitionEnterTimeout={100}
-        transitionLeaveTimeout={300}
+        transitionLeaveTimeout={200}
       >
         <div
           style={{
@@ -27,7 +27,9 @@ const CustomPopover = React.createClass({
             padding: 10,
           }}
         >
-          <strong>Holy guacamole!</strong> Check this info.
+          <strong>Holy Josim!</strong>
+          <br/>
+          Check this info.
         </div>
       </CSSTransitionGroup>
     );
